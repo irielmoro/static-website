@@ -84,11 +84,11 @@ h1 {
 }
 
 .btn-one {
-	background-color: darkorange;
+	background-color: rgb(104, 68, 234);
 }
 
 .btn-two:hover {
-	background-color: darkorange;
+	background-color: rgb(104, 68, 234);
 	transition: all 0.2s ease-in;
 }
 
